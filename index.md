@@ -1,22 +1,20 @@
 ---
 layout: default
 id: home
-title: MaintainableCSS
+title: CSS Mantenible
 ---
 
-<p>Write CSS without worrying that overzealous, pre-existing styles will cause problems. MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS.</p>
+<p>
+	Escribe CSS sin preocuparte que los estilos pre-existentes puedan causar problemas. CSS Mantenible es un enfoque para escribir CSS de forma modular, escalable y por su puesto mantenible. <br> Traducción autorizada por <a href="https://maintainablecss.com/">MaintainableCSS</a>.
+</p>
 
-<div><a class="primaryLinkButton" href="/chapters/introduction/">Start reading</a></div>
+<div><a class="primaryLinkButton" href="/chapters/introduction/">LEER MÁS</a></div>
 
-## What others say
-
-Quite a few people like it:
-
-> &ldquo;A handy little read on learning how to write modular and maintainable CSS.&rdquo;
+> &ldquo;Una pequeña lectura práctica sobre cómo escribir CSS modular y mantenible.&rdquo;
 		<br><cite>Smashing Magazine</cite>
 
-> &ldquo;Finally a good book on how to write maintainable CSS.&rdquo;
+> &ldquo;Finalmente un buen libro sobre cómo escribir CSS mantenible.&rdquo;
 		<br><cite>Alexander Dajani</cite>
 
-> &ldquo;I actually love everything about this.&rdquo;
+> &ldquo;En realidad me encanta todo sobre esto.&rdquo;
 		<br><cite>Simon Taggart</cite>

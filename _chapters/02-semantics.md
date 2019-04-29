@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Semantics
+title: Semántica
 section: Background
 permalink: /chapters/semantics/
 description: Why naming something based on what it is, instead of how it looks or behaves is the foundation of well architected and maintainable CSS.
